@@ -1,0 +1,44 @@
+baseURL = "https://jdcain.me/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "blue"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  showLastUpdated = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "jdcain.me"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show More"
+    readMore = "Read More"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Oops... looks like you've gone down a wrong turn. This isn't your fault. It's mine. Sorry."
+    missingBackButtonLable = "Return home"
+
+    [languages.en.params.logo]
+      logoText = "jdcain.me"
+      logoHomeLink = "/"
+    
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+	name = "About"
+	url = "/about"
+
+      [[languages.en.menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts"
+
+[markdown.goldmark.renderer]
+  unsave = true

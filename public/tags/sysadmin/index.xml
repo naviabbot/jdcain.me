@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sysadmin on jdcain.me</title>
+    <link>https://jdcain.me/tags/sysadmin/</link>
+    <description>Recent content in sysadmin on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenBSD: Easy, yet tough</title>
+      <link>https://jdcain.me/posts/2020-05-05-openbsd-easy/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
+      <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
+    </item>
+    
+  </channel>
+</rss>

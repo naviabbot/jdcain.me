@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on jdcain.me</title>
+    <link>https://jdcain.me/tags/notes/</link>
+    <description>Recent content in notes on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple note workflow</title>
+      <link>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</guid>
+      <description>So, I&amp;rsquo;ve decided to set up my own note taking solution using Syncthing and Joplin. It was simple to get going, albeit a bit complicated.
+The items you need:
+- Joplin
+- Syncthing
+Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.
+Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.</description>
+    </item>
+    
+  </channel>
+</rss>

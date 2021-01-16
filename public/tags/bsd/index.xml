@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bsd on jdcain.me</title>
+    <link>https://jdcain.me/tags/bsd/</link>
+    <description>Recent content in bsd on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/tags/bsd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenBSD Web Hosting: Day 1</title>
+      <link>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</guid>
+      <description>I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple.</description>
+    </item>
+    
+    <item>
+      <title>SDDM on FreeBSD</title>
+      <link>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
+      <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
+After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
+ [Theme]
+Current=sddm-freebsd-black-theme
+ (Sidenote: This theme is also available in pkg)</description>
+    </item>
+    
+    <item>
+      <title>OpenBSD: Easy, yet tough</title>
+      <link>https://jdcain.me/posts/2020-05-05-openbsd-easy/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
+      <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD First Reimpression</title>
+      <link>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</guid>
+      <description>Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.
+The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead.</description>
+    </item>
+    
+  </channel>
+</rss>

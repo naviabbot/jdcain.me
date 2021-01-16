@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Vim Config Fun :: jdcain.me</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.
+&amp;quot; Extra Pluginscall plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)Plug &#39;junegunn/goyo.vim&#39;Plug &#39;junegunn/limelight.vim&#39;Plug &#39;vim-airline/vim-airline&#39;Plug &#39;vim-airline/vim-airline-themes&#39;Plug &#39;ctrlpvim/ctrlp.vim&#39;Plug &#39;vimwiki/vimwiki&#39;Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }Plug &#39;vim-scripts/AutoComplPop&#39;Plug &#39;junegunn/fzf&#39;call plug#end()&amp;quot; Aestheticscolorscheme draculalet g:airline#extensions#tabline#enabled = 1let g:airline_theme = &#39;zenburn&#39;let g:airline_powerline_fonts = 1let maplocalleader=&amp;quot;;&amp;quot;let g:limelight_conceal_ctermfg = 240set noshowmodeset nocompatibleset number&amp;quot; echom &amp;quot;YAMETE KUDASTOP!" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://jdcain.me/posts/2020-09-28-vim-config-fun/" />
+
+
+
+
+<link rel="stylesheet" href="https://jdcain.me/assets/style.css">
+
+  <link rel="stylesheet" href="https://jdcain.me/assets/blue.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://jdcain.me/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://jdcain.me/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Vim Config Fun">
+<meta property="og:description" content="A Vim config" />
+<meta property="og:url" content="https://jdcain.me/posts/2020-09-28-vim-config-fun/" />
+<meta property="og:site_name" content="jdcain.me" />
+
+  
+    <meta property="og:image" content="https://jdcain.me/img/favicon/blue.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2020-09-28 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    jdcain.me
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/posts">Posts</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/posts">Posts</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://jdcain.me/posts/2020-09-28-vim-config-fun/">Vim Config Fun</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2020-09-28 
+      </span>
+    
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://jdcain.me/tags/vim/">vim</a>&nbsp;
+    
+    #<a href="https://jdcain.me/tags/unix/">unix</a>&nbsp;
+    
+    #<a href="https://jdcain.me/tags/config/">config</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>Recently, I&rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.</p>
+<pre><code>&quot; Extra Plugins
+call plug#begin('C:\Users\snicf\AppData\Local\nvim\plugs')
+Plug 'junegunn/goyo.vim'
+Plug 'junegunn/limelight.vim'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'vimwiki/vimwiki'
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'vim-scripts/AutoComplPop'
+Plug 'junegunn/fzf'
+call plug#end()
+
+&quot; Aesthetics
+colorscheme dracula
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_theme = 'zenburn'
+let g:airline_powerline_fonts = 1
+let maplocalleader=&quot;;&quot;
+let g:limelight_conceal_ctermfg = 240
+set noshowmode
+set nocompatible
+set number
+&quot; echom &quot;YAMETE KUDASTOP!&quot;
+
+&quot; Elite Spelling
+set spelllang=en
+set spellfile=$HOME/.spell.en.utf-8.add
+set spell
+
+
+&quot; Power Keymappings
+nnoremap &lt;Leader&gt;h &lt;C-w&gt;h
+nnoremap &lt;Leader&gt;j &lt;C-w&gt;j
+nnoremap &lt;Leader&gt;k &lt;C-w&gt;k
+nnoremap &lt;Leader&gt;l &lt;C-w&gt;l
+nnoremap ,twitch :-1read ~\src\twitch.html&lt;CR&gt;6j11l
+
+au BufNewFile,BufRead /*.rasi setf css
+filetype plugin on
+syntax on
+</code></pre><p>This isn&rsquo;t in my dotfiles yet, as I&rsquo;ve only been hacking on it on Windows, but soon it shall be. I&rsquo;ll have to pull it down to my Arch laptop. I had to switch from FreeBSD and OpenBSD as the driver support is limited. Also, I&rsquo;ve been trying to contribute more to the community. I may not be a hacker, but I am a reader. As such, I&rsquo;ve been contributing my books to BookBrainz.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://jdcain.me/posts/2020-10-07-election-hottake/">
+                <span class="button__icon">←</span>
+                <span class="button__text">2020 Election Hot-Take: Everything I know about our system and my thoughts</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://jdcain.me/posts/2020-05-17-simple-notes-sync/">
+                <span class="button__text">A simple note workflow</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://jdcain.me/assets/main.js"></script>
+<script src="https://jdcain.me/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

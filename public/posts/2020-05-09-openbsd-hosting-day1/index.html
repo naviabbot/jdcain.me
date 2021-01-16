@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>OpenBSD Web Hosting: Day 1 :: jdcain.me</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/" />
+
+
+
+
+<link rel="stylesheet" href="https://jdcain.me/assets/style.css">
+
+  <link rel="stylesheet" href="https://jdcain.me/assets/blue.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://jdcain.me/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://jdcain.me/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="OpenBSD Web Hosting: Day 1">
+<meta property="og:description" content="OpenBSD has its own webserver." />
+<meta property="og:url" content="https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/" />
+<meta property="og:site_name" content="jdcain.me" />
+
+  
+    <meta property="og:image" content="https://jdcain.me/img/favicon/blue.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2020-05-09 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    jdcain.me
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/posts">Posts</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/posts">Posts</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/">OpenBSD Web Hosting: Day 1</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2020-05-09 
+      </span>
+    
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://jdcain.me/tags/bsd/">bsd</a>&nbsp;
+    
+    #<a href="https://jdcain.me/tags/webhosting/">webhosting</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>I&rsquo;ve recently moved my host from my employer&rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&rsquo;ve been wanting to play with the built-in <a href="https://man.openbsd.org/httpd.8">httpd(8)</a> ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&rsquo;s own built-in Let&rsquo;s Encrypt client - <a href="https://man.openbsd.org/acme-client.1">acme-client(1)</a>. The configuration for this is also super simple. Just configure your ACME server, then your domain, the ASNs, the paths for your certificates, and then which server to sign. It follows the same config as <a href="https://man.openbsd.org/httpd.conf">httpd.conf(5)</a>, which is mentioned above.</p>
+<p>This whole blend works nicely with this site, which is written with Jekyll, a static site generator developed in Ruby.</p>
+<p>I don&rsquo;t understand why, but simple sometimes is better.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://jdcain.me/posts/2020-05-17-simple-notes-sync/">
+                <span class="button__icon">←</span>
+                <span class="button__text">A simple note workflow</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/">
+                <span class="button__text">SDDM on FreeBSD</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://jdcain.me/assets/main.js"></script>
+<script src="https://jdcain.me/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jdcain.me</title>
+    <link>https://jdcain.me/posts/</link>
+    <description>Recent content in Posts on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 01:33:43 -0600</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrated to Hugo</title>
+      <link>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</link>
+      <pubDate>Sat, 16 Jan 2021 01:33:43 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</guid>
+      <description>I&amp;rsquo;ve migrated from JekyllRB to GoHugo, mainly due to compilation speed and the fact that kmartk.art is built out of the same thing.
+What does this mean? Nothing much. Just a new look, something similar to kmartk.art. And yes, it&amp;rsquo;s still all hosted out of my OpenBSD server.</description>
+    </item>
+    
+    <item>
+      <title>A New Year And All</title>
+      <link>https://jdcain.me/posts/2021-01-14-a-new-year-and-all/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-01-14-a-new-year-and-all/</guid>
+      <description>Well, it&amp;rsquo;s a new year. We have a new president being sworn in soon and I&amp;rsquo;ve made a few resolutions on my own. I&amp;rsquo;ll have to go through quite a bit of oral surgery to fix my mouth and is it expensive.
+Though, I suppose I should list out my plans here for the future - I&amp;rsquo;m probably going to be migrating this blog over to Hugo, rather than Jekyll. It&amp;rsquo;ll be a bit of work, but the theme will obviously change.</description>
+    </item>
+    
+    <item>
+      <title>2020 Election Hot-Take: Everything I know about our system and my thoughts</title>
+      <link>https://jdcain.me/posts/2020-10-07-election-hottake/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-10-07-election-hottake/</guid>
+      <description>I try and stay apolitical with my internet usage. However, 2020&amp;rsquo;s been a rather shit year and I&amp;rsquo;m sick of both Sleepy Joe and Daffy Don trying to pull the strings.
+I&amp;rsquo;m trying to not pull from conspiracy theory. Sources are linked or cited when touching conspiracy-like facts.
+  The United States is designed as a Federal Republic - we elect people who represent us. This includes the Presidential Election - the Electoral College is designed so that we vote for the electors who best represent the area those who elected them.</description>
+    </item>
+    
+    <item>
+      <title>Vim Config Fun</title>
+      <link>https://jdcain.me/posts/2020-09-28-vim-config-fun/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-09-28-vim-config-fun/</guid>
+      <description>Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.
+&amp;quot; Extra Pluginscall plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)Plug &#39;junegunn/goyo.vim&#39;Plug &#39;junegunn/limelight.vim&#39;Plug &#39;vim-airline/vim-airline&#39;Plug &#39;vim-airline/vim-airline-themes&#39;Plug &#39;ctrlpvim/ctrlp.vim&#39;Plug &#39;vimwiki/vimwiki&#39;Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }Plug &#39;vim-scripts/AutoComplPop&#39;Plug &#39;junegunn/fzf&#39;call plug#end()&amp;quot; Aestheticscolorscheme draculalet g:airline#extensions#tabline#enabled = 1let g:airline_theme = &#39;zenburn&#39;let g:airline_powerline_fonts = 1let maplocalleader=&amp;quot;;&amp;quot;let g:limelight_conceal_ctermfg = 240set noshowmodeset nocompatibleset number&amp;quot; echom &amp;quot;YAMETE KUDASTOP!</description>
+    </item>
+    
+    <item>
+      <title>A simple note workflow</title>
+      <link>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</guid>
+      <description>So, I&amp;rsquo;ve decided to set up my own note taking solution using Syncthing and Joplin. It was simple to get going, albeit a bit complicated.
+The items you need:
+- Joplin
+- Syncthing
+Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.
+Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.</description>
+    </item>
+    
+    <item>
+      <title>OpenBSD Web Hosting: Day 1</title>
+      <link>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</guid>
+      <description>I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple.</description>
+    </item>
+    
+    <item>
+      <title>SDDM on FreeBSD</title>
+      <link>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
+      <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
+After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
+ [Theme]
+Current=sddm-freebsd-black-theme
+ (Sidenote: This theme is also available in pkg)</description>
+    </item>
+    
+    <item>
+      <title>OpenBSD: Easy, yet tough</title>
+      <link>https://jdcain.me/posts/2020-05-05-openbsd-easy/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
+      <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD First Reimpression</title>
+      <link>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</guid>
+      <description>Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.
+The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead.</description>
+    </item>
+    
+  </channel>
+</rss>

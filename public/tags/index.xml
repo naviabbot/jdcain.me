@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on jdcain.me</title>
+    <link>https://jdcain.me/tags/</link>
+    <description>Recent content in Tags on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 01:33:43 -0600</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>personal</title>
+      <link>https://jdcain.me/tags/personal/</link>
+      <pubDate>Sat, 16 Jan 2021 01:33:43 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://jdcain.me/tags/tech/</link>
+      <pubDate>Sat, 16 Jan 2021 01:33:43 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>https://jdcain.me/tags/2020/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>https://jdcain.me/tags/freedom/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POTUS</title>
+      <link>https://jdcain.me/tags/potus/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/potus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>config</title>
+      <link>https://jdcain.me/tags/config/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://jdcain.me/tags/unix/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://jdcain.me/tags/vim/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>joplin</title>
+      <link>https://jdcain.me/tags/joplin/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/joplin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>https://jdcain.me/tags/notes/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syncthing</title>
+      <link>https://jdcain.me/tags/syncthing/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/syncthing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bsd</title>
+      <link>https://jdcain.me/tags/bsd/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/bsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webhosting</title>
+      <link>https://jdcain.me/tags/webhosting/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/webhosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>display manager]</title>
+      <link>https://jdcain.me/tags/display-manager/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/display-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freebsd</title>
+      <link>https://jdcain.me/tags/freebsd/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openbsd</title>
+      <link>https://jdcain.me/tags/openbsd/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/openbsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysadmin</title>
+      <link>https://jdcain.me/tags/sysadmin/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unixporn</title>
+      <link>https://jdcain.me/tags/unixporn/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/tags/unixporn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

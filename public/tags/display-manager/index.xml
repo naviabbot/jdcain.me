@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>display manager] on jdcain.me</title>
+    <link>https://jdcain.me/tags/display-manager/</link>
+    <description>Recent content in display manager] on jdcain.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jdcain.me/tags/display-manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SDDM on FreeBSD</title>
+      <link>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
+      <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
+After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
+ [Theme]
+Current=sddm-freebsd-black-theme
+ (Sidenote: This theme is also available in pkg)</description>
+    </item>
+    
+  </channel>
+</rss>
