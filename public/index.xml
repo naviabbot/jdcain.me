@@ -6,10 +6,20 @@
     <description>Recent content on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 01:33:43 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 01:36:31 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 01 19 Emailserver Setup</title>
+      <link>https://jdcain.me/posts/2021-01-19-emailserver-setup/</link>
+      <pubDate>Tue, 19 Jan 2021 01:36:31 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-01-19-emailserver-setup/</guid>
+      <description>I got bored. Not only did I begin linking my sites here and there, I&amp;rsquo;ve also put up an email server, because I can. Because shut up. Also, because I&amp;rsquo;ve been trying to get one set up for sometime so that &amp;lsquo;me@jdcain.me&amp;rsquo; actually goes somewhere.
+I know, it&amp;rsquo;s a narcissistic address. But the domain is my name&amp;hellip; so it fits.</description>
+    </item>
     
     <item>
       <title>Migrated to Hugo</title>
