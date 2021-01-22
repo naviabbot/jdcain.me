@@ -6,10 +6,20 @@
     <description>Recent content in Posts on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jan 2021 01:36:31 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 20:32:59 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coco&#39;s Shitposts and Kdenlive</title>
+      <link>https://jdcain.me/posts/2021-01-21-asacoco-video/</link>
+      <pubDate>Thu, 21 Jan 2021 20:32:59 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-01-21-asacoco-video/</guid>
+      <description>Recently, Hololive Vtuber Kiryu Coco - AKA: The Dragon of Hololive, the Memelord, the Shitposting Dragon - has been posting strange greenscreened videos with fellow colleague Amane Kanata. These videos usually have Coco doing a bit of a dance or just being goofy. As most assume these videos were for the creation of memes, I decided to take it into my own hands.
+Taking my favorite Phantasy Star Online 2 opening, I went ahead and cut together a simple video, deciding it was time to learn how to chroma key.</description>
+    </item>
     
     <item>
       <title>2021 01 19 Emailserver Setup</title>
