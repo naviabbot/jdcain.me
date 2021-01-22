@@ -51,4 +51,4 @@ paginate = 5
 	url = "https://kmartk.art"
 
 [markdown.goldmark.renderer]
-  unsave = true
+  unsafe = true
