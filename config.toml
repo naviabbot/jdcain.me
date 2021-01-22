@@ -50,5 +50,5 @@ paginate = 5
 	name = "Streams"
 	url = "https://kmartk.art"
 
-[markdown.goldmark.renderer]
+[markup.goldmark.renderer]
   unsafe = true

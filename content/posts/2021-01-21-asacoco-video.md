@@ -15,5 +15,5 @@ Recently, Hololive Vtuber Kiryu Coco - AKA: The Dragon of Hololive, the Memelord
 Taking my favorite Phantasy Star Online 2 opening, I went ahead and cut together a simple video, deciding it was time to learn how to chroma key. Not only did I feel like I got the hang of it on the easy settings, I also decided to use the transform composition plugin to fade her in and scale her down into a corner. I feel like I actually learned something today and I'm very proud of it. As such, the video is linked below.
 
 <video width="896" height="504" controls>
-	<src="https://jdcain.me/cocos-hips-and-space.webm" type="video/webm">
+	<source src="https://jdcain.me/cocos-hips-and-space.webm" type="video/webm">
 </video>
