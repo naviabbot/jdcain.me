@@ -6,10 +6,37 @@
     <description>Recent content in Tags on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 20:32:59 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 21:53:49 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bsd</title>
+      <link>https://jdcain.me/tags/bsd/</link>
+      <pubDate>Wed, 27 Jan 2021 21:53:49 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/bsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openbsd</title>
+      <link>https://jdcain.me/tags/openbsd/</link>
+      <pubDate>Wed, 27 Jan 2021 21:53:49 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/openbsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysadmin</title>
+      <link>https://jdcain.me/tags/sysadmin/</link>
+      <pubDate>Wed, 27 Jan 2021 21:53:49 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/sysadmin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hololive</title>
@@ -156,15 +183,6 @@
     </item>
     
     <item>
-      <title>bsd</title>
-      <link>https://jdcain.me/tags/bsd/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdcain.me/tags/bsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>webhosting</title>
       <link>https://jdcain.me/tags/webhosting/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
@@ -188,24 +206,6 @@
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jdcain.me/tags/freebsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>openbsd</title>
-      <link>https://jdcain.me/tags/openbsd/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdcain.me/tags/openbsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sysadmin</title>
-      <link>https://jdcain.me/tags/sysadmin/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdcain.me/tags/sysadmin/</guid>
       <description></description>
     </item>
     

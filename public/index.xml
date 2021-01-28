@@ -6,10 +6,20 @@
     <description>Recent content on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 20:32:59 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 21:53:49 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenBSD Upgrade</title>
+      <link>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</link>
+      <pubDate>Wed, 27 Jan 2021 21:53:49 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</guid>
+      <description>A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.
+Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.</description>
+    </item>
     
     <item>
       <title>Coco&#39;s Shitposts and Kdenlive</title>

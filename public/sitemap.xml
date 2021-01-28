@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdcain.me/tags/bsd/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/openbsd/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/sysadmin/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/</loc>
+    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdcain.me/posts/2021-01-21-asacoco-video/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
   </url>
@@ -13,27 +48,12 @@
   </url>
   
   <url>
-    <loc>https://jdcain.me/</loc>
-    <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/tags/kdenlive/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdcain.me/tags/linux/</loc>
-    <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
   </url>
   
@@ -138,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://jdcain.me/tags/bsd/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -168,17 +183,7 @@
   </url>
   
   <url>
-    <loc>https://jdcain.me/tags/openbsd/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/posts/2020-05-05-openbsd-easy/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/sysadmin/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
