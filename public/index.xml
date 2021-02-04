@@ -6,10 +6,21 @@
     <description>Recent content on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 21:16:39 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 23:09:03 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to set up Agate on FreeBSD</title>
+      <link>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</link>
+      <pubDate>Wed, 03 Feb 2021 23:09:03 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</guid>
+      <description>It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.
+ Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot)  Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace  with your full domain name.
+ cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.</description>
+    </item>
     
     <item>
       <title>Replacing Gopher</title>

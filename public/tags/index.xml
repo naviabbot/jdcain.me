@@ -6,15 +6,24 @@
     <description>Recent content in Tags on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 21:16:39 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 23:09:03 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>freebsd</title>
+      <link>https://jdcain.me/tags/freebsd/</link>
+      <pubDate>Wed, 03 Feb 2021 23:09:03 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gemini</title>
       <link>https://jdcain.me/tags/gemini/</link>
-      <pubDate>Wed, 03 Feb 2021 21:16:39 -0600</pubDate>
+      <pubDate>Wed, 03 Feb 2021 23:09:03 -0600</pubDate>
       
       <guid>https://jdcain.me/tags/gemini/</guid>
       <description></description>
@@ -215,15 +224,6 @@
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jdcain.me/tags/display-manager/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>freebsd</title>
-      <link>https://jdcain.me/tags/freebsd/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jdcain.me/tags/freebsd/</guid>
       <description></description>
     </item>
     
