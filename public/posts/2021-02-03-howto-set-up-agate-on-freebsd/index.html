@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>How to set up Agate on FreeBSD :: jdcain.me</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.
+ Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot)  Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace  with your full domain name.
+ cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0." />
+<meta name="keywords" content=", " />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/" />
+
+
+
+
+<link rel="stylesheet" href="https://jdcain.me/assets/style.css">
+
+  <link rel="stylesheet" href="https://jdcain.me/assets/blue.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://jdcain.me/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://jdcain.me/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How to set up Agate on FreeBSD">
+<meta property="og:description" content="The simple instructions on how to set up a Gemini server on FreeBSD" />
+<meta property="og:url" content="https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/" />
+<meta property="og:site_name" content="jdcain.me" />
+
+  <meta property="og:image" content="https://jdcain.me/">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2021-02-03 23:09:03 -0600 CST" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    jdcain.me
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="https://games.jdcain.me">Games Blog</a></li>
+        
+      
+      
+        <ul class="menu__sub-inner">
+          <li class="menu__sub-inner-more-trigger">Show More ▾</li>
+
+          <ul class="menu__sub-inner-more hidden">
+            
+              
+                <li><a href="/posts">Posts</a></li>
+              
+            
+              
+                <li><a href="https://kmartk.art">Streams</a></li>
+              
+            
+          </ul>
+        </ul>
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="https://games.jdcain.me">Games Blog</a></li>
+      
+    
+      
+        <li><a href="/posts">Posts</a></li>
+      
+    
+      
+        <li><a href="https://kmartk.art">Streams</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/">How to set up Agate on FreeBSD</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2021-02-03 
+      </span>
+    
+    
+    <span class="post-author">:: Josh Cain</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://jdcain.me/tags/freebsd/">freebsd</a>&nbsp;
+    
+    #<a href="https://jdcain.me/tags/gemini/">gemini</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>It&rsquo;s sort of simple. You&rsquo;ll need a few things, really.</p>
+<ul>
+<li>Rust (Can be installed via rustup.rs)</li>
+<li>Certbot (<code>pkg install py37-certbot</code>)</li>
+</ul>
+<h2 id="setup">Setup<a href="#setup" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h2>
+<p>The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace <domainname> with your full domain name.</p>
+<ol>
+<li><code>cargo install agate</code></li>
+<li><code>certbot certonly --standalone -d &lt;domainname&gt;</code></li>
+<li><code>agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.0.0.0:1965 --hostname &lt;domainname&gt; --lang en-US</code></li>
+<li>Add a .gmi file to the content directory.</li>
+</ol>
+<p>A .gmi file is based off of Markdown with it&rsquo;s headers, bullets, and ordered lists. Links, however, are not inline. Rather, they are denoted by an <code>=&gt;</code>. Links are easier than Gopher though. Take this example to the home page:</p>
+<p>Gemini Link
+<code>=&gt; https://jdcain.me A blog</code></p>
+<p>Gopher Link
+<code>hA blog&lt;tab&gt;URL:https://jdcain.me</code></p>
+<p>A bit clunky, I can assure you. The &lsquo;text/gemini&rsquo; markup is simple and modern.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        
+        <span class="button next">
+            <a href="https://jdcain.me/posts/2021-02-03-replacing-gopher/">
+                <span class="button__text">Replacing Gopher</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://jdcain.me/assets/main.js"></script>
+<script src="https://jdcain.me/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

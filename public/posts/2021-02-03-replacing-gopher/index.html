@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Replacing Gopher :: jdcain.me</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="The description is a bit clickbaity, innit? Well, apparently, if you go too long without updating Ubuntu, you won&amp;rsquo;t be able to update Ubuntu. The server I had hosting my znc and gopher servers - agopherhole.tk - were running on Ubuntu 19.10. Well, it&amp;rsquo;s 2021 now, and all the links to the repos in the APT configuration just weren&amp;rsquo;t hitting any more. After trying a do-release-upgrade, I was prompted to upgrade any and all packages that needed an upgrade." />
+<meta name="keywords" content="gemini, gopher" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://jdcain.me/posts/2021-02-03-replacing-gopher/" />
+
+
+
+
+<link rel="stylesheet" href="https://jdcain.me/assets/style.css">
+
+  <link rel="stylesheet" href="https://jdcain.me/assets/blue.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://jdcain.me/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://jdcain.me/img/favicon/blue.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Replacing Gopher">
+<meta property="og:description" content="So... I found out something about Ubuntu..." />
+<meta property="og:url" content="https://jdcain.me/posts/2021-02-03-replacing-gopher/" />
+<meta property="og:site_name" content="jdcain.me" />
+
+  <meta property="og:image" content="https://jdcain.me/">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2021-02-03 21:16:39 -0600 CST" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="blue">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    jdcain.me
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="https://games.jdcain.me">Games Blog</a></li>
+        
+      
+      
+        <ul class="menu__sub-inner">
+          <li class="menu__sub-inner-more-trigger">Show More ▾</li>
+
+          <ul class="menu__sub-inner-more hidden">
+            
+              
+                <li><a href="/posts">Posts</a></li>
+              
+            
+              
+                <li><a href="https://kmartk.art">Streams</a></li>
+              
+            
+          </ul>
+        </ul>
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="https://games.jdcain.me">Games Blog</a></li>
+      
+    
+      
+        <li><a href="/posts">Posts</a></li>
+      
+    
+      
+        <li><a href="https://kmartk.art">Streams</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://jdcain.me/posts/2021-02-03-replacing-gopher/">Replacing Gopher</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2021-02-03 
+      </span>
+    
+    
+    <span class="post-author">:: Josh Cain</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://jdcain.me/tags/software/">software</a>&nbsp;
+    
+    #<a href="https://jdcain.me/tags/gemini/">gemini</a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>The description is a bit clickbaity, innit? Well, apparently, if you go too long without updating Ubuntu, you won&rsquo;t be able to update Ubuntu. The server I had hosting my znc and gopher servers - agopherhole.tk - were running on Ubuntu 19.10. Well, it&rsquo;s 2021 now, and all the links to the repos in the APT configuration just weren&rsquo;t hitting any more. After trying a <code>do-release-upgrade</code>, I was prompted to upgrade any and all packages that needed an upgrade. But APT just couldn&rsquo;t pull those down. I had no access to the server, so I couldn&rsquo;t copy out important configuration, reinstall on the LTS, and try again. So, I copied out all the important configuration, dropped the server, and spun up a new one, with FreeBSD. However, after trying to get Gopher set up on that, it proved that it couldn&rsquo;t be helped.</p>
+<p>Now I watch <a href="https://www.distrotube.com/">distrotube</a>, and he had a good video on the Gemini Protocol. It looks to be a modern version of Gopher, running off port 1965 rather than port 70. And the text/gemini syntax is more like Markdown than anything. So, taking a leap of faith, I moved from Gopher to Gemini. You can access the site from a Gemini browser at <a href="gemini://agopherhole.tk">gemini://agopherhole.tk</a>.</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        <span class="button previous">
+            <a href="https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/">
+                <span class="button__icon">←</span>
+                <span class="button__text">How to set up Agate on FreeBSD</span>
+            </a>
+        </span>
+        
+        
+        <span class="button next">
+            <a href="https://jdcain.me/posts/2021-01-27-openbsd-upgrade/">
+                <span class="button__text">OpenBSD Upgrade</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://jdcain.me/assets/main.js"></script>
+<script src="https://jdcain.me/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
