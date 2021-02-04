@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jdcain.me/tags/bsd/</loc>
-    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
+    <loc>https://jdcain.me/tags/gemini/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdcain.me/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-02-03-replacing-gopher/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/software/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/</loc>
+    <lastmod>2021-02-03T21:16:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/bsd/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
   </url>
   
@@ -23,17 +48,7 @@
   </url>
   
   <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/tags/sysadmin/</loc>
-    <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
   </url>
   
