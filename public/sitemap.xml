@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdcain.me/tags/gemini/</loc>
+    <lastmod>2021-02-04T04:04:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-02-04-gemini-mirror/</loc>
+    <lastmod>2021-02-04T04:04:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/</loc>
+    <lastmod>2021-02-04T04:04:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-02-04T04:04:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/</loc>
+    <lastmod>2021-02-04T04:04:15-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdcain.me/tags/freebsd/</loc>
     <lastmod>2021-02-03T23:09:03-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jdcain.me/tags/gemini/</loc>
-    <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</loc>
-    <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/</loc>
-    <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-02-03T23:09:03-06:00</lastmod>
   </url>
   
