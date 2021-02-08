@@ -6,10 +6,19 @@
     <description>Recent content in Tags on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2021 22:26:24 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 20:12:12 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>personal</title>
+      <link>https://jdcain.me/tags/personal/</link>
+      <pubDate>Sun, 07 Feb 2021 20:12:12 -0600</pubDate>
+      
+      <guid>https://jdcain.me/tags/personal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gemini</title>
@@ -107,15 +116,6 @@
       <pubDate>Tue, 19 Jan 2021 01:36:31 -0600</pubDate>
       
       <guid>https://jdcain.me/tags/email/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://jdcain.me/tags/personal/</link>
-      <pubDate>Sat, 16 Jan 2021 01:33:43 -0600</pubDate>
-      
-      <guid>https://jdcain.me/tags/personal/</guid>
       <description></description>
     </item>
     

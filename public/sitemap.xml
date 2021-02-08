@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jdcain.me/</loc>
+    <lastmod>2021-02-07T20:12:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/personal/</loc>
+    <lastmod>2021-02-07T20:12:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-02-07T20:12:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-02-07-stuck-at-home-thoughts/</loc>
+    <lastmod>2021-02-07T20:12:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/</loc>
+    <lastmod>2021-02-07T20:12:12-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jdcain.me/posts/2021-02-04-dgem/</loc>
     <lastmod>2021-02-04T22:26:24-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdcain.me/tags/gemini/</loc>
-    <lastmod>2021-02-04T22:26:24-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/</loc>
-    <lastmod>2021-02-04T22:26:24-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-02-04T22:26:24-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-02-04T22:26:24-06:00</lastmod>
   </url>
   
@@ -109,11 +119,6 @@
   
   <url>
     <loc>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</loc>
-    <lastmod>2021-01-16T01:33:43-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/personal/</loc>
     <lastmod>2021-01-16T01:33:43-06:00</lastmod>
   </url>
   
