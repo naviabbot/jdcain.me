@@ -6,10 +6,19 @@
     <description>Recent content on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Feb 2021 20:12:12 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 03:08:59 -0600</lastBuildDate>
     
 	<atom:link href="https://jdcain.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A NAS on a Pi?</title>
+      <link>https://jdcain.me/posts/2021-03-03-pi-nas/</link>
+      <pubDate>Wed, 03 Mar 2021 03:08:59 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-03-03-pi-nas/</guid>
+      <description>So, I&amp;rsquo;ve got a Raspberry Pi 4. I&amp;rsquo;ve done various things with it - mainly just emulation and amateur radio related things. Unfortunately, they never do stick around as my thoughts for plans frequently change and shift. However, after being inspired by a Youtube video of some guy loading OpenMediaVault on a Rock64, I decided to do the same thing with my Pi 4. It is almost as powerful, after all - 1.</description>
+    </item>
     
     <item>
       <title>Stuck at home... thoughts</title>
