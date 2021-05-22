@@ -6,11 +6,7 @@
     <description>Recent content in joplin on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jdcain.me/tags/joplin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jdcain.me/tags/joplin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple note workflow</title>
       <link>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</link>

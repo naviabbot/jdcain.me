@@ -6,11 +6,7 @@
     <description>Recent content in config on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jdcain.me/tags/config/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jdcain.me/tags/config/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim Config Fun</title>
       <link>https://jdcain.me/posts/2020-09-28-vim-config-fun/</link>

@@ -6,11 +6,7 @@
     <description>Recent content in webhosting on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jdcain.me/tags/webhosting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jdcain.me/tags/webhosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenBSD Web Hosting: Day 1</title>
       <link>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</link>

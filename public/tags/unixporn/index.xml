@@ -6,11 +6,7 @@
     <description>Recent content in unixporn on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jdcain.me/tags/unixporn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jdcain.me/tags/unixporn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FreeBSD First Reimpression</title>
       <link>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</link>

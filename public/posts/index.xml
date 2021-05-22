@@ -6,10 +6,26 @@
     <description>Recent content in Posts on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 03:08:59 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 04:29:45 +0000</lastBuildDate><atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 Spring Report</title>
+      <link>https://jdcain.me/posts/2021-04-05-spring-report/</link>
+      <pubDate>Tue, 06 Apr 2021 04:29:45 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-04-05-spring-report/</guid>
+      <description>Nothing much has happened so far. Being spring, the NWS has started siren testing, which will occur every first saturday until Octoberish. Annoying. I&amp;rsquo;ve moved back over to Linux, currently running Artix on my desktop. So far, it&amp;rsquo;s not terrible. Runit does make sense to me. Recently, distrotube released a video on how his main production will be directly on Gemini, stating that 90% of the web is dominated by corporations.</description>
+    </item>
     
-	<atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>My Writing Flow</title>
+      <link>https://jdcain.me/posts/2021-03-04-my-writing-flow/</link>
+      <pubDate>Thu, 04 Mar 2021 07:25:52 +0000</pubDate>
+      
+      <guid>https://jdcain.me/posts/2021-03-04-my-writing-flow/</guid>
+      <description>Introduction I&amp;rsquo;m wanting to share my own writing workflow with you all, just something I think that many of you might find interesting.
+I&amp;rsquo;m a fan of Open Source Software. As such, a good portion of my programs are such - even the applications I enjoy on Windows.
+The programs I primarily use for writing is Neovim, which is a super version of the vi text editor. It does work well on Windows, especially in Windows Terminal.</description>
+    </item>
     
     <item>
       <title>A NAS on a Pi?</title>

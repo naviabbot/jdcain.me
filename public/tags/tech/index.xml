@@ -6,11 +6,7 @@
     <description>Recent content in tech on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jan 2021 01:33:43 -0600</lastBuildDate>
-    
-	<atom:link href="https://jdcain.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 16 Jan 2021 01:33:43 -0600</lastBuildDate><atom:link href="https://jdcain.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrated to Hugo</title>
       <link>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</link>

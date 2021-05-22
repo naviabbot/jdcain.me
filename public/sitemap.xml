@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jdcain.me/posts/2021-03-03-pi-nas/</loc>
-    <lastmod>2021-03-03T03:08:59-06:00</lastmod>
+    <loc>https://jdcain.me/posts/2021-04-05-spring-report/</loc>
+    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/filler/</loc>
+    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jdcain.me/</loc>
+    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/</loc>
+    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/flow/</loc>
+    <lastmod>2021-03-04T07:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/markdown/</loc>
+    <lastmod>2021-03-04T07:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-03-04-my-writing-flow/</loc>
+    <lastmod>2021-03-04T07:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/org/</loc>
+    <lastmod>2021-03-04T07:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/tags/tex/</loc>
+    <lastmod>2021-03-04T07:25:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jdcain.me/posts/2021-03-03-pi-nas/</loc>
     <lastmod>2021-03-03T03:08:59-06:00</lastmod>
   </url>
   
@@ -18,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-03-03T03:08:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jdcain.me/tags/rpi/</loc>
-    <lastmod>2021-03-03T03:08:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-03-03T03:08:59-06:00</lastmod>
   </url>
   
