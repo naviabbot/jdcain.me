@@ -50,5 +50,10 @@ paginate = 5
 	name = "Streams"
 	url = "https://kmartk.art"
 
+      [[languages.en.menu.main]]
+	identifier = "gemini"
+	name = "Gemini Version"
+	url = "/gemini"
+
 [markup.goldmark.renderer]
   unsafe = true

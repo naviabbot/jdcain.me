@@ -1,289 +1,181 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://jdcain.me/gemini/</loc>
+    <lastmod>2021-12-19T09:00:10+00:00</lastmod>
+  </url><url>
+    <loc>https://jdcain.me/posts/2021-anime-newyears-resolution/</loc>
+    <lastmod>2021-12-08T18:05:15+00:00</lastmod>
+  </url><url>
+    <loc>https://jdcain.me/</loc>
+    <lastmod>2021-12-08T18:05:15+00:00</lastmod>
+  </url><url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2021-12-08T18:05:15+00:00</lastmod>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-04-05-spring-report/</loc>
     <lastmod>2021-04-06T04:29:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/filler/</loc>
     <lastmod>2021-04-06T04:29:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/</loc>
-    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jdcain.me/posts/</loc>
-    <lastmod>2021-04-06T04:29:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/</loc>
     <lastmod>2021-04-06T04:29:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/flow/</loc>
     <lastmod>2021-03-04T07:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/markdown/</loc>
     <lastmod>2021-03-04T07:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-03-04-my-writing-flow/</loc>
     <lastmod>2021-03-04T07:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/org/</loc>
     <lastmod>2021-03-04T07:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/tex/</loc>
     <lastmod>2021-03-04T07:25:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-03-03-pi-nas/</loc>
     <lastmod>2021-03-03T03:08:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/nas/</loc>
     <lastmod>2021-03-03T03:08:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/rpi/</loc>
     <lastmod>2021-03-03T03:08:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/personal/</loc>
     <lastmod>2021-02-07T20:12:12-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-02-07-stuck-at-home-thoughts/</loc>
     <lastmod>2021-02-07T20:12:12-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-02-04-dgem/</loc>
     <lastmod>2021-02-04T22:26:24-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/gemini/</loc>
     <lastmod>2021-02-04T22:26:24-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-02-04-gemini-mirror/</loc>
     <lastmod>2021-02-04T04:04:15-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/freebsd/</loc>
     <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</loc>
     <lastmod>2021-02-03T23:09:03-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-02-03-replacing-gopher/</loc>
     <lastmod>2021-02-03T21:16:39-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/software/</loc>
     <lastmod>2021-02-03T21:16:39-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/bsd/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/openbsd/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/sysadmin/</loc>
     <lastmod>2021-01-27T21:53:49-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-01-21-asacoco-video/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/hololive/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/kdenlive/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/linux/</loc>
     <lastmod>2021-01-21T20:32:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-01-19-emailserver-setup/</loc>
     <lastmod>2021-01-19T01:36:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/admin/</loc>
     <lastmod>2021-01-19T01:36:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/email/</loc>
     <lastmod>2021-01-19T01:36:31-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</loc>
     <lastmod>2021-01-16T01:33:43-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/tech/</loc>
     <lastmod>2021-01-16T01:33:43-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/about/</loc>
     <lastmod>2021-01-15T23:24:27-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2021-01-14-a-new-year-and-all/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/2020/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-10-07-election-hottake/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/freedom/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/potus/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/config/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/unix/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/vim/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-09-28-vim-config-fun/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-05-17-simple-notes-sync/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/joplin/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/notes/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/syncthing/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/webhosting/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/display-manager/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-05-05-openbsd-easy/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/tags/unixporn/</loc>
     <lastmod>2020-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jdcain.me/categories/</loc>
   </url>
-  
 </urlset>

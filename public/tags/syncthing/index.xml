@@ -19,6 +19,22 @@ The items you need:
 - Syncthing
 Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.
 Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.</description>
+      <content>&lt;p&gt;So, I&amp;rsquo;ve decided to set up my own note taking solution using Syncthing and Joplin. It was simple to get going, albeit a bit complicated.&lt;/p&gt;
+&lt;p&gt;The items you need:&lt;br&gt;
+- &lt;a href=&#34;https://joplinapp.org/&#34;&gt;Joplin&lt;/a&gt;&lt;br&gt;
+- &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.&lt;/p&gt;
+&lt;p&gt;Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.
+&lt;img src=&#34;https://jdcain.me/assets/joplin.png&#34; alt=&#34;Joplin&#34;&gt;
+Step 3: Start Syncthing and create a shared folder:&lt;br&gt;
+- Name: Whatever you want.&lt;br&gt;
+- Path: Your Notes Folder.&lt;br&gt;
+- Folder ID: Choose something unique.&lt;br&gt;
+&lt;img src=&#34;https://jdcain.me/assets/folder.png&#34; alt=&#34;Folder&#34;&gt;
+Step 4: Set up a device in Syncthing. Share the notes folder under Sharing.
+&lt;img src=&#34;https://jdcain.me/assets/devices.png&#34; alt=&#34;Devices&#34;&gt;
+Step 5: Accept both connect request and share request on the other device.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

@@ -15,6 +15,9 @@
       <guid>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</guid>
       <description>A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.
 Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.</description>
+      <content>&lt;p&gt;A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.&lt;/p&gt;
+&lt;p&gt;Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.conf&amp;rdquo;. It&amp;rsquo;s not as heady as a sudoers file at all. It&amp;rsquo;s simple, to the point, and is constantly updated by the OpenBSD team the moment there is a security vulnerability. You can get it on almost any Linux or BSD. The Linux folk can use duncaen/OpenDoas from Github or off of the Arch AUR or repos.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -24,6 +27,9 @@ Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. Th
       
       <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
       <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
+      <content>&lt;p&gt;I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process. I just need to get my init.vim from my Manjaro box to my desktop. I&amp;rsquo;ll just use Firefox Send. It&amp;rsquo;d make it easy.&lt;/p&gt;
+&lt;p&gt;I should read up on system hardening and see just how much more secure I can make this system. OpenBSD prides itself on being a pretty super secure system out of the default install. Also, if anyone knows how any application like ncpamixer for mixerctl, please let me know. I&amp;rsquo;m hanging out on matrix at @t3hyoshi:matrix.agopherhole.tk.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

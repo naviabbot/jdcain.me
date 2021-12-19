@@ -15,6 +15,50 @@
       <guid>https://jdcain.me/posts/2020-09-28-vim-config-fun/</guid>
       <description>Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.
 &amp;quot; Extra Pluginscall plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)Plug &#39;junegunn/goyo.vim&#39;Plug &#39;junegunn/limelight.vim&#39;Plug &#39;vim-airline/vim-airline&#39;Plug &#39;vim-airline/vim-airline-themes&#39;Plug &#39;ctrlpvim/ctrlp.vim&#39;Plug &#39;vimwiki/vimwiki&#39;Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }Plug &#39;vim-scripts/AutoComplPop&#39;Plug &#39;junegunn/fzf&#39;call plug#end()&amp;quot; Aestheticscolorscheme draculalet g:airline#extensions#tabline#enabled = 1let g:airline_theme = &#39;zenburn&#39;let g:airline_powerline_fonts = 1let maplocalleader=&amp;quot;;&amp;quot;let g:limelight_conceal_ctermfg = 240set noshowmodeset nocompatibleset number&amp;quot; echom &amp;quot;YAMETE KUDASTOP!</description>
+      <content>&lt;p&gt;Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;quot; Extra Plugins
+call plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)
+Plug &#39;junegunn/goyo.vim&#39;
+Plug &#39;junegunn/limelight.vim&#39;
+Plug &#39;vim-airline/vim-airline&#39;
+Plug &#39;vim-airline/vim-airline-themes&#39;
+Plug &#39;ctrlpvim/ctrlp.vim&#39;
+Plug &#39;vimwiki/vimwiki&#39;
+Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }
+Plug &#39;vim-scripts/AutoComplPop&#39;
+Plug &#39;junegunn/fzf&#39;
+call plug#end()
+
+&amp;quot; Aesthetics
+colorscheme dracula
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_theme = &#39;zenburn&#39;
+let g:airline_powerline_fonts = 1
+let maplocalleader=&amp;quot;;&amp;quot;
+let g:limelight_conceal_ctermfg = 240
+set noshowmode
+set nocompatible
+set number
+&amp;quot; echom &amp;quot;YAMETE KUDASTOP!&amp;quot;
+
+&amp;quot; Elite Spelling
+set spelllang=en
+set spellfile=$HOME/.spell.en.utf-8.add
+set spell
+
+
+&amp;quot; Power Keymappings
+nnoremap &amp;lt;Leader&amp;gt;h &amp;lt;C-w&amp;gt;h
+nnoremap &amp;lt;Leader&amp;gt;j &amp;lt;C-w&amp;gt;j
+nnoremap &amp;lt;Leader&amp;gt;k &amp;lt;C-w&amp;gt;k
+nnoremap &amp;lt;Leader&amp;gt;l &amp;lt;C-w&amp;gt;l
+nnoremap ,twitch :-1read ~\src\twitch.html&amp;lt;CR&amp;gt;6j11l
+
+au BufNewFile,BufRead /*.rasi setf css
+filetype plugin on
+syntax on
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This isn&amp;rsquo;t in my dotfiles yet, as I&amp;rsquo;ve only been hacking on it on Windows, but soon it shall be. I&amp;rsquo;ll have to pull it down to my Arch laptop. I had to switch from FreeBSD and OpenBSD as the driver support is limited. Also, I&amp;rsquo;ve been trying to contribute more to the community. I may not be a hacker, but I am a reader. As such, I&amp;rsquo;ve been contributing my books to BookBrainz.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

@@ -14,6 +14,10 @@
       
       <guid>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</guid>
       <description>I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple.</description>
+      <content>&lt;p&gt;I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in &lt;a href=&#34;https://man.openbsd.org/httpd.8&#34;&gt;httpd(8)&lt;/a&gt; ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - &lt;a href=&#34;https://man.openbsd.org/acme-client.1&#34;&gt;acme-client(1)&lt;/a&gt;. The configuration for this is also super simple. Just configure your ACME server, then your domain, the ASNs, the paths for your certificates, and then which server to sign. It follows the same config as &lt;a href=&#34;https://man.openbsd.org/httpd.conf&#34;&gt;httpd.conf(5)&lt;/a&gt;, which is mentioned above.&lt;/p&gt;
+&lt;p&gt;This whole blend works nicely with this site, which is written with Jekyll, a static site generator developed in Ruby.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t understand why, but simple sometimes is better.&lt;/p&gt;
+</content>
     </item>
     
   </channel>
