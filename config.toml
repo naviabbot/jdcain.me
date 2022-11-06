@@ -40,6 +40,11 @@ paginate = 5
 	identifier = "posts"
 	name = "Posts"
 	url = "/posts"
+
+      [[languages.en.menu.main]]
+        identifier = "photos"
+	name = "Photos"
+	url = "https://pixelfed.social/i/web/profile/460389589034816192"
       
 
 [markup.goldmark.renderer]
