@@ -16,6 +16,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "jdcain.me"
+    subtitle = "Queer Nerd"
     owner = ""
     keywords = ""
     copyright = ""
