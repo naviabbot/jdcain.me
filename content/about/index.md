@@ -3,9 +3,16 @@ title: "About"
 date: 2021-01-15T23:24:27-06:00
 draft: false
 ---
-# About Me
+# About My Interests
 
-A Myriad of Salutations to you. I am your humble host. I am a UNIX and Linux enthusiast and a bit of a tabletop roleplaying geek. In addition to those, I enjoy a good classic anime and old video game from time to time. I'm bigendered/non-binary and pronounflux.
+A Myriad of Salutations to you. I am your humble host. I am a UNIX and Linux enthusiast and a bit of a tabletop roleplaying geek. In addition to those, I enjoy a good classic anime and old video game from time to time. 
+
+# About My Personal Identity
+I identify as a greybisexual panromantic bigendered individual. I know, a mouthful. I'll break it down.
+
+- greybisexual - I'm attracted to both males and females sexually, but I don't long for a sexual relationship.
+- panromantic - I am a huge romantic and don't mind getting swept off of my feet by anyone of any gender.
+- bigender - I identify as both masculine and feminine.
 
 ## Pronouns
 
@@ -19,10 +26,8 @@ A Myriad of Salutations to you. I am your humble host. I am a UNIX and Linux ent
 
 I can be contacted in many different ways:
 
-* Email/Jabber: me@jdcain.me (Jabber has OMEMO enabled. It's best to try and reach out to me on a different mode of communication to verify keys before using this method)
+* Email: me@jdcain.me 
 * Discord: Doc. Tear Popper#9103
 * Telegram: https://t.me/arwynvixenheart
 * Reddit: Constant_Boot
-* Kik: bigeninbelle
 
-My GPG Public Key (0xab81f45f906045a0) is found on keyserver.ubuntu.com.

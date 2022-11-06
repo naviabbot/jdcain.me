@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jdcain.me/posts/2022-11-06-2022-update/</loc>
+    <lastmod>2022-11-06T05:20:15-06:00</lastmod>
+  </url><url>
+    <loc>https://jdcain.me/</loc>
+    <lastmod>2022-11-06T05:20:15-06:00</lastmod>
+  </url><url>
+    <loc>https://jdcain.me/posts/</loc>
+    <lastmod>2022-11-06T05:20:15-06:00</lastmod>
+  </url><url>
     <loc>https://jdcain.me/gemini/</loc>
     <lastmod>2021-12-19T09:00:10+00:00</lastmod>
   </url><url>
     <loc>https://jdcain.me/posts/2021-anime-newyears-resolution/</loc>
-    <lastmod>2021-12-08T18:05:15+00:00</lastmod>
-  </url><url>
-    <loc>https://jdcain.me/</loc>
-    <lastmod>2021-12-08T18:05:15+00:00</lastmod>
-  </url><url>
-    <loc>https://jdcain.me/posts/</loc>
     <lastmod>2021-12-08T18:05:15+00:00</lastmod>
   </url><url>
     <loc>https://jdcain.me/posts/2021-04-05-spring-report/</loc>

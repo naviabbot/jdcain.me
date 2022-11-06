@@ -15,18 +15,10 @@
       <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
       <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
 After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
- [Theme]
+[Theme]
 Current=sddm-freebsd-black-theme
- (Sidenote: This theme is also available in pkg)</description>
-      <content>&lt;p&gt;So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include &lt;code&gt;sddm_enable=&amp;quot;YES&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;After this was set, I went into /usr/local/etc/sddm.conf and set the theme:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;[Theme]&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;Current=sddm-freebsd-black-theme&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;(Sidenote: This theme is also available in pkg)&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console. Though, the console is always sexy.&lt;/p&gt;
-</content>
+(Sidenote: This theme is also available in pkg)
+I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console.</description>
     </item>
     
   </channel>

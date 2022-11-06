@@ -15,10 +15,6 @@
       <guid>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</guid>
       <description>I&amp;rsquo;ve migrated from JekyllRB to GoHugo, mainly due to compilation speed and the fact that kmartk.art is built out of the same thing.
 What does this mean? Nothing much. Just a new look, something similar to kmartk.art. And yes, it&amp;rsquo;s still all hosted out of my OpenBSD server.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve migrated from JekyllRB to GoHugo, mainly due to compilation speed and the fact that &lt;a href=&#34;https://kmartk.art&#34;&gt;kmartk.art&lt;/a&gt; is built out of the same thing.&lt;/p&gt;
-&lt;h2 id=&#34;what-does-this-mean&#34;&gt;What does this mean?&lt;/h2&gt;
-&lt;p&gt;Nothing much. Just a new look, something similar to &lt;a href=&#34;https://kmartk.art&#34;&gt;kmartk.art&lt;/a&gt;. And yes, it&amp;rsquo;s still all hosted out of my OpenBSD server.&lt;/p&gt;
-</content>
     </item>
     
   </channel>

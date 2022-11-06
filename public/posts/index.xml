@@ -6,7 +6,17 @@
     <description>Recent content in Posts on jdcain.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 18:05:15 +0000</lastBuildDate><atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 05:20:15 -0600</lastBuildDate><atom:link href="https://jdcain.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Update</title>
+      <link>https://jdcain.me/posts/2022-11-06-2022-update/</link>
+      <pubDate>Sun, 06 Nov 2022 05:20:15 -0600</pubDate>
+      
+      <guid>https://jdcain.me/posts/2022-11-06-2022-update/</guid>
+      <description>Sorry that I kept you all waiting. It&amp;rsquo;s been a hectic year. A few highlights of the year:
+July: I received notification back from the WA DOH Vital Records office regarding an ammendment to my birth certificate. I&amp;rsquo;m now legally nonbinary! August: I got a new brother-in-law. The wedding was rather fun and I&amp;rsquo;m glad I was asked to be an usher. October: My boyfriend and I hit our anniversary again and it was a wonderful night.</description>
+    </item>
+    
     <item>
       <title>Anime New Years Resolution</title>
       <link>https://jdcain.me/posts/2021-anime-newyears-resolution/</link>
@@ -14,20 +24,7 @@
       
       <guid>https://jdcain.me/posts/2021-anime-newyears-resolution/</guid>
       <description>I&amp;rsquo;ve got a lot of anime I&amp;rsquo;m in the middle of and I never really get back to it all. I&amp;rsquo;ve decided to make an Anime New Years Resolution list. The list is as follows.
- Mobile Fighter G Gundam Gundam Build Fighters Mahou Shoujo Lyrical Nanoha Strikers Mahoutsukai! PreCure Sakura Taisen Macross Delta Cardfight! Vanguard -overDress- Phantasy Star Online 2: Episode Oracle  My goal is to have these series finished by the 7th of January 2023, one week after the New Year 2023.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve got a lot of anime I&amp;rsquo;m in the middle of and I never really get back to it all. I&amp;rsquo;ve decided to make an Anime New Years Resolution list. The list is as follows.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mobile Fighter G Gundam&lt;/li&gt;
-&lt;li&gt;Gundam Build Fighters&lt;/li&gt;
-&lt;li&gt;Mahou Shoujo Lyrical Nanoha Strikers&lt;/li&gt;
-&lt;li&gt;Mahoutsukai! PreCure&lt;/li&gt;
-&lt;li&gt;Sakura Taisen&lt;/li&gt;
-&lt;li&gt;Macross Delta&lt;/li&gt;
-&lt;li&gt;Cardfight! Vanguard -overDress-&lt;/li&gt;
-&lt;li&gt;Phantasy Star Online 2: Episode Oracle&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;My goal is to have these series finished by the 7th of January 2023, one week after the New Year 2023.&lt;/p&gt;
-</content>
+Mobile Fighter G Gundam Gundam Build Fighters Mahou Shoujo Lyrical Nanoha Strikers Mahoutsukai! PreCure Sakura Taisen Macross Delta Cardfight! Vanguard -overDress- Phantasy Star Online 2: Episode Oracle My goal is to have these series finished by the 7th of January 2023, one week after the New Year 2023.</description>
     </item>
     
     <item>
@@ -37,8 +34,6 @@
       
       <guid>https://jdcain.me/posts/2021-04-05-spring-report/</guid>
       <description>Nothing much has happened so far. Being spring, the NWS has started siren testing, which will occur every first saturday until Octoberish. Annoying. I&amp;rsquo;ve moved back over to Linux, currently running Artix on my desktop. So far, it&amp;rsquo;s not terrible. Runit does make sense to me. Recently, distrotube released a video on how his main production will be directly on Gemini, stating that 90% of the web is dominated by corporations.</description>
-      <content>&lt;p&gt;Nothing much has happened so far. Being spring, the NWS has started siren testing, which will occur every first saturday until Octoberish. Annoying. I&amp;rsquo;ve moved back over to Linux, currently running Artix on my desktop. So far, it&amp;rsquo;s not terrible. Runit does make sense to me. Recently, distrotube released a video on how his main production will be directly on Gemini, stating that 90% of the web is dominated by corporations. He has forgotten that 90% of the internet is deepweb. Only 10% is clearweb and on that 10% most advertise. Granted, many pages in the deepweb may belong to a corporation (such as your profile&amp;rsquo;s edit page, my own service listings in Vultr or at work, and others like it), but those aren&amp;rsquo;t advertised on, unless the company running the site is stupid and begins with Game- or is related to CBS in someway. As much as I like the concept behind Gemini (trust me, I&amp;rsquo;ve a few capsules myself), the web is here to stay and it will be dominant. Unfortunately, the dream of building a network of linked documents is dead, as the web is now the entertainment vehicle it has become. I am probably digressing and confusing some things. Who cares anymore.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -50,22 +45,6 @@
       <description>Introduction I&amp;rsquo;m wanting to share my own writing workflow with you all, just something I think that many of you might find interesting.
 I&amp;rsquo;m a fan of Open Source Software. As such, a good portion of my programs are such - even the applications I enjoy on Windows.
 The programs I primarily use for writing is Neovim, which is a super version of the vi text editor. It does work well on Windows, especially in Windows Terminal.</description>
-      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m wanting to share my own writing workflow with you all, just something I think that many of you might find interesting.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m a fan of Open Source Software. As such, a good portion of my programs are such - even the applications I enjoy on Windows.&lt;/p&gt;
-&lt;p&gt;The programs I primarily use for writing is Neovim, which is a super version of the vi text editor. It does work well on Windows, especially in Windows Terminal. I do have a few plugins - primarily a few distraction free plugins and org.vim, which I will be touching on below.&lt;/p&gt;
-&lt;h2 id=&#34;organization&#34;&gt;Organization&lt;/h2&gt;
-&lt;p&gt;Like many starting points, it&amp;rsquo;s always good to be organized. As such, I use org-mode, an organization format made with use for the Emacs editor, but can be used with almost any editor. In fact, Visual Studio Code has it&amp;rsquo;s own org-mode plugin. As for me, I use org.vim, which provides the organizational layout of org-mode to write down the outline of my stories or even journal posts, like this one.&lt;/p&gt;
-&lt;h2 id=&#34;prototyping&#34;&gt;Prototyping&lt;/h2&gt;
-&lt;p&gt;Once I have everything organized, I then go to use Markdown to get basic markup taken care of. Markdown itself is a &amp;ldquo;What You See Is What You Mean&amp;rdquo; layout for HTML, but can be easily parsed into any other sort of document format, especially with a converter like Pandoc. Passing the markdown into pandoc with a proper output file gives me a file I can then further refactor.&lt;/p&gt;
-&lt;h2 id=&#34;refactoring&#34;&gt;Refactoring&lt;/h2&gt;
-&lt;p&gt;I take the output from Pandoc, which is a .tex file, and put into TeXworks. A .tex file is a special text preprocessor file with macros to properly typeset text. The TeX format was written by mathematician Donald Knuth back in the 70s and is still maintained today by both him and people who have made their own versions, like XeLaTeX, which is the version I use, due to the fancy fontspec package, which allows me to define my own fonts for use using TrueType formats. (I love using Garamond as my serifed font. Thank Apple for that.)&lt;/p&gt;
-&lt;p&gt;In any case, I take this .tex file and put it into TeXworks, which allows me to preview the document and make changes to make it look right.&lt;/p&gt;
-&lt;h2 id=&#34;publish&#34;&gt;Publish&lt;/h2&gt;
-&lt;p&gt;Once I&amp;rsquo;m happy with the way it looks, I take the compiled preview and make it my final version. If I&amp;rsquo;m wanting an epub version of the document, I run one off with Pandoc, as it has native epub compilation.&lt;/p&gt;
-&lt;h2 id=&#34;end&#34;&gt;End&lt;/h2&gt;
-&lt;p&gt;It is a lot of work, I&amp;rsquo;ll give you that, but in this case, the end really does justify the means. I&amp;rsquo;m left with a beautiful PDF document and a file I can use on an e-reader of my choice.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -75,9 +54,6 @@ The programs I primarily use for writing is Neovim, which is a super version of 
       
       <guid>https://jdcain.me/posts/2021-03-03-pi-nas/</guid>
       <description>So, I&amp;rsquo;ve got a Raspberry Pi 4. I&amp;rsquo;ve done various things with it - mainly just emulation and amateur radio related things. Unfortunately, they never do stick around as my thoughts for plans frequently change and shift. However, after being inspired by a Youtube video of some guy loading OpenMediaVault on a Rock64, I decided to do the same thing with my Pi 4. It is almost as powerful, after all - 1.</description>
-      <content>&lt;p&gt;So, I&amp;rsquo;ve got a Raspberry Pi 4. I&amp;rsquo;ve done various things with it - mainly just emulation and amateur radio related things. Unfortunately, they never do stick around as my thoughts for plans frequently change and shift. However, after being inspired by a Youtube video of some guy loading OpenMediaVault on a Rock64, I decided to do the same thing with my Pi 4. It is almost as powerful, after all - 1.5 GHz ARM64 processor and 4 GB of memory isn&amp;rsquo;t too terrible to run a NAS on, right?&lt;/p&gt;
-&lt;p&gt;About so. Now, the Pi isn&amp;rsquo;t too terribly powerful to begin with. Transfer speeds on the wifi are about 30 MB/s and on wire, it&amp;rsquo;s about 10 MB/s. However, it does get the job done.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -88,9 +64,6 @@ The programs I primarily use for writing is Neovim, which is a super version of 
       <guid>https://jdcain.me/posts/2021-02-07-stuck-at-home-thoughts/</guid>
       <description>It&amp;rsquo;s not a blizzard, but it certainly is winter. The temps were below zero last night and there&amp;rsquo;s no sign of near freezing point near by. As such, I&amp;rsquo;m not the kind that wants to go anywhere like it is right now. So, I&amp;rsquo;m stuck at home until it all fades away.
 Someone&amp;hellip; please help. I&amp;rsquo;m going to go mad and I&amp;rsquo;m not wanting that.</description>
-      <content>&lt;p&gt;It&amp;rsquo;s not a blizzard, but it certainly is winter. The temps were below zero last night and there&amp;rsquo;s no sign of near freezing point near by. As such, I&amp;rsquo;m not the kind that wants to go anywhere like it is right now. So, I&amp;rsquo;m stuck at home until it all fades away.&lt;/p&gt;
-&lt;p&gt;Someone&amp;hellip; please help. I&amp;rsquo;m going to go mad and I&amp;rsquo;m not wanting that.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -101,9 +74,6 @@ Someone&amp;hellip; please help. I&amp;rsquo;m going to go mad and I&amp;rsquo;m
       <guid>https://jdcain.me/posts/2021-02-04-dgem/</guid>
       <description>So, I tried submitting my sites to gus.guru, but it&amp;rsquo;s just not&amp;hellip; good. The index was last crawled on December. I have recently submitted jdcain.me to geminispace.info&amp;rsquo;s instance of GUS. However, I wanted to channel the classic feeling of the DMOZ&amp;hellip; or as it&amp;rsquo;s now known today&amp;hellip; Curlie.
 That&amp;rsquo;s why dgem exists - the Directory of GEMini Capsules. It&amp;rsquo;s manually curated, like Curlie. If you want your site added, please email me+dgen@jdcain.</description>
-      <content>&lt;p&gt;So, I tried submitting my sites to gus.guru, but it&amp;rsquo;s just not&amp;hellip; good. The index was last crawled on December. I have recently submitted jdcain.me to geminispace.info&amp;rsquo;s instance of GUS. However, I wanted to channel the classic feeling of the DMOZ&amp;hellip; or as it&amp;rsquo;s now known today&amp;hellip; Curlie.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s why dgem exists - the &lt;strong&gt;D&lt;/strong&gt;irectory of &lt;strong&gt;GEM&lt;/strong&gt;ini Capsules. It&amp;rsquo;s manually curated, like Curlie. If you want your site added, please email &lt;a href=&#34;mailto:me+dgen@jdcain.me&#34;&gt;me+dgen@jdcain.me&lt;/a&gt; or send me a dm @t3hyoshi@pleroma.soykaf.com.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -113,8 +83,6 @@ That&amp;rsquo;s why dgem exists - the Directory of GEMini Capsules. It&amp;rsqu
       
       <guid>https://jdcain.me/posts/2021-02-04-gemini-mirror/</guid>
       <description>I&amp;rsquo;ve set up a server on the same host of the webserver using twins. You can now access the site at gemini://jdcain.me. I might add one for the games site.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve set up a server on the same host of the webserver using twins. You can now access the site at &lt;a href=&#34;gemini://jdcain.me&#34;&gt;gemini://jdcain.me&lt;/a&gt;. I might add one for the games site.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -124,28 +92,8 @@ That&amp;rsquo;s why dgem exists - the Directory of GEMini Capsules. It&amp;rsqu
       
       <guid>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</guid>
       <description>It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.
- Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot)  Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace  with your full domain name.
- cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.</description>
-      <content>&lt;p&gt;It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rust (Can be installed via rustup.rs)&lt;/li&gt;
-&lt;li&gt;Certbot (&lt;code&gt;pkg install py37-certbot&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-&lt;p&gt;The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace &lt;domainname&gt; with your full domain name.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;cargo install agate&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;certbot certonly --standalone -d &amp;lt;domainname&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.0.0.0:1965 --hostname &amp;lt;domainname&amp;gt; --lang en-US&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Add a .gmi file to the content directory.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;A .gmi file is based off of Markdown with it&amp;rsquo;s headers, bullets, and ordered lists. Links, however, are not inline. Rather, they are denoted by an &lt;code&gt;=&amp;gt;&lt;/code&gt;. Links are easier than Gopher though. Take this example to the home page:&lt;/p&gt;
-&lt;p&gt;Gemini Link
-&lt;code&gt;=&amp;gt; https://jdcain.me A blog&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Gopher Link
-&lt;code&gt;hA blog&amp;lt;tab&amp;gt;URL:https://jdcain.me&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A bit clunky, I can assure you. The &amp;lsquo;text/gemini&amp;rsquo; markup is simple and modern.&lt;/p&gt;
-</content>
+Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot) Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace with your full domain name.
+cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.0.0.0:1965 --hostname &amp;lt;domainname&amp;gt; --lang en-US Add a .</description>
     </item>
     
     <item>
@@ -155,9 +103,6 @@ That&amp;rsquo;s why dgem exists - the Directory of GEMini Capsules. It&amp;rsqu
       
       <guid>https://jdcain.me/posts/2021-02-03-replacing-gopher/</guid>
       <description>The description is a bit clickbaity, innit? Well, apparently, if you go too long without updating Ubuntu, you won&amp;rsquo;t be able to update Ubuntu. The server I had hosting my znc and gopher servers - agopherhole.tk - were running on Ubuntu 19.10. Well, it&amp;rsquo;s 2021 now, and all the links to the repos in the APT configuration just weren&amp;rsquo;t hitting any more. After trying a do-release-upgrade, I was prompted to upgrade any and all packages that needed an upgrade.</description>
-      <content>&lt;p&gt;The description is a bit clickbaity, innit? Well, apparently, if you go too long without updating Ubuntu, you won&amp;rsquo;t be able to update Ubuntu. The server I had hosting my znc and gopher servers - agopherhole.tk - were running on Ubuntu 19.10. Well, it&amp;rsquo;s 2021 now, and all the links to the repos in the APT configuration just weren&amp;rsquo;t hitting any more. After trying a &lt;code&gt;do-release-upgrade&lt;/code&gt;, I was prompted to upgrade any and all packages that needed an upgrade. But APT just couldn&amp;rsquo;t pull those down. I had no access to the server, so I couldn&amp;rsquo;t copy out important configuration, reinstall on the LTS, and try again. So, I copied out all the important configuration, dropped the server, and spun up a new one, with FreeBSD. However, after trying to get Gopher set up on that, it proved that it couldn&amp;rsquo;t be helped.&lt;/p&gt;
-&lt;p&gt;Now I watch &lt;a href=&#34;https://www.distrotube.com/&#34;&gt;distrotube&lt;/a&gt;, and he had a good video on the Gemini Protocol. It looks to be a modern version of Gopher, running off port 1965 rather than port 70. And the text/gemini syntax is more like Markdown than anything. So, taking a leap of faith, I moved from Gopher to Gemini. You can access the site from a Gemini browser at &lt;a href=&#34;gemini://agopherhole.tk&#34;&gt;gemini://agopherhole.tk&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -168,9 +113,6 @@ That&amp;rsquo;s why dgem exists - the Directory of GEMini Capsules. It&amp;rsqu
       <guid>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</guid>
       <description>A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.
 Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.</description>
-      <content>&lt;p&gt;A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.&lt;/p&gt;
-&lt;p&gt;Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.conf&amp;rdquo;. It&amp;rsquo;s not as heady as a sudoers file at all. It&amp;rsquo;s simple, to the point, and is constantly updated by the OpenBSD team the moment there is a security vulnerability. You can get it on almost any Linux or BSD. The Linux folk can use duncaen/OpenDoas from Github or off of the Arch AUR or repos.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -181,12 +123,6 @@ Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. Th
       <guid>https://jdcain.me/posts/2021-01-21-asacoco-video/</guid>
       <description>Recently, Hololive Vtuber Kiryu Coco - AKA: The Dragon of Hololive, the Memelord, the Shitposting Dragon - has been posting strange greenscreened videos with fellow colleague Amane Kanata. These videos usually have Coco doing a bit of a dance or just being goofy. As most assume these videos were for the creation of memes, I decided to take it into my own hands.
 Taking my favorite Phantasy Star Online 2 opening, I went ahead and cut together a simple video, deciding it was time to learn how to chroma key.</description>
-      <content>&lt;p&gt;Recently, Hololive Vtuber Kiryu Coco - AKA: The Dragon of Hololive, the Memelord, the Shitposting Dragon - has been posting strange greenscreened videos with fellow colleague Amane Kanata. These videos usually have Coco doing a bit of a dance or just being goofy. As most assume these videos were for the creation of memes, I decided to take it into my own hands.&lt;/p&gt;
-&lt;p&gt;Taking my favorite Phantasy Star Online 2 opening, I went ahead and cut together a simple video, deciding it was time to learn how to chroma key. Not only did I feel like I got the hang of it on the easy settings, I also decided to use the transform composition plugin to fade her in and scale her down into a corner. I feel like I actually learned something today and I&amp;rsquo;m very proud of it. As such, the video is linked below.&lt;/p&gt;
-&lt;video width=&#34;896&#34; height=&#34;504&#34; controls&gt;
-	&lt;source src=&#34;https://jdcain.me/cocos-hips-and-space.webm&#34; type=&#34;video/webm&#34;&gt;
-&lt;/video&gt;
-</content>
     </item>
     
     <item>
@@ -197,9 +133,6 @@ Taking my favorite Phantasy Star Online 2 opening, I went ahead and cut together
       <guid>https://jdcain.me/posts/2021-01-19-emailserver-setup/</guid>
       <description>I got bored. Not only did I begin linking my sites here and there, I&amp;rsquo;ve also put up an email server, because I can. Because shut up. Also, because I&amp;rsquo;ve been trying to get one set up for sometime so that &amp;lsquo;me@jdcain.me&amp;rsquo; actually goes somewhere.
 I know, it&amp;rsquo;s a narcissistic address. But the domain is my name&amp;hellip; so it fits.</description>
-      <content>&lt;p&gt;I got bored. Not only did I begin linking my sites here and there, I&amp;rsquo;ve also put up an email server, because I can. Because shut up. Also, because I&amp;rsquo;ve been trying to get one set up for sometime so that &amp;lsquo;&lt;a href=&#34;mailto:me@jdcain.me&#34;&gt;me@jdcain.me&lt;/a&gt;&amp;rsquo; actually goes somewhere.&lt;/p&gt;
-&lt;p&gt;I know, it&amp;rsquo;s a narcissistic address. But the domain is my name&amp;hellip; so it fits.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -210,10 +143,6 @@ I know, it&amp;rsquo;s a narcissistic address. But the domain is my name&amp;hel
       <guid>https://jdcain.me/posts/2021-01-16-migrated-to-hugo/</guid>
       <description>I&amp;rsquo;ve migrated from JekyllRB to GoHugo, mainly due to compilation speed and the fact that kmartk.art is built out of the same thing.
 What does this mean? Nothing much. Just a new look, something similar to kmartk.art. And yes, it&amp;rsquo;s still all hosted out of my OpenBSD server.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve migrated from JekyllRB to GoHugo, mainly due to compilation speed and the fact that &lt;a href=&#34;https://kmartk.art&#34;&gt;kmartk.art&lt;/a&gt; is built out of the same thing.&lt;/p&gt;
-&lt;h2 id=&#34;what-does-this-mean&#34;&gt;What does this mean?&lt;/h2&gt;
-&lt;p&gt;Nothing much. Just a new look, something similar to &lt;a href=&#34;https://kmartk.art&#34;&gt;kmartk.art&lt;/a&gt;. And yes, it&amp;rsquo;s still all hosted out of my OpenBSD server.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -224,11 +153,6 @@ What does this mean? Nothing much. Just a new look, something similar to kmartk.
       <guid>https://jdcain.me/posts/2021-01-14-a-new-year-and-all/</guid>
       <description>Well, it&amp;rsquo;s a new year. We have a new president being sworn in soon and I&amp;rsquo;ve made a few resolutions on my own. I&amp;rsquo;ll have to go through quite a bit of oral surgery to fix my mouth and is it expensive.
 Though, I suppose I should list out my plans here for the future - I&amp;rsquo;m probably going to be migrating this blog over to Hugo, rather than Jekyll. It&amp;rsquo;ll be a bit of work, but the theme will obviously change.</description>
-      <content>&lt;p&gt;Well, it&amp;rsquo;s a new year. We have a new president being sworn in soon and I&amp;rsquo;ve made a few resolutions on my own. I&amp;rsquo;ll have to go through quite a bit of oral surgery to fix my mouth and is it expensive.&lt;/p&gt;
-&lt;p&gt;Though, I suppose I should list out my plans here for the future - I&amp;rsquo;m probably going to be migrating this blog over to Hugo, rather than Jekyll. It&amp;rsquo;ll be a bit of work, but the theme will obviously change. I&amp;rsquo;m thinking of basing it all off of Gruvbox, just so I have something to use that&amp;rsquo;s nice on the eyes. Nord is just too blue.&lt;/p&gt;
-&lt;p&gt;Gamewise, I&amp;rsquo;m waiting for both the Yakuza Collection and PSO2NGS. Both are going to be hopefully excellent.&lt;/p&gt;
-&lt;p&gt;I believe that&amp;rsquo;s about all I want to get this about.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -239,27 +163,7 @@ Though, I suppose I should list out my plans here for the future - I&amp;rsquo;m
       <guid>https://jdcain.me/posts/2020-10-07-election-hottake/</guid>
       <description>I try and stay apolitical with my internet usage. However, 2020&amp;rsquo;s been a rather shit year and I&amp;rsquo;m sick of both Sleepy Joe and Daffy Don trying to pull the strings.
 I&amp;rsquo;m trying to not pull from conspiracy theory. Sources are linked or cited when touching conspiracy-like facts.
-  The United States is designed as a Federal Republic - we elect people who represent us. This includes the Presidential Election - the Electoral College is designed so that we vote for the electors who best represent the area those who elected them.</description>
-      <content>&lt;p&gt;I try and stay apolitical with my internet usage. However, 2020&amp;rsquo;s been a rather shit year and I&amp;rsquo;m sick of both Sleepy Joe and Daffy Don trying to pull the strings.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m trying to not pull from conspiracy theory. Sources are linked or cited when touching conspiracy-like facts.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;The United States is designed as a Federal Republic - we elect people who represent us. This includes the Presidential Election - the Electoral College is designed so that we vote for the electors who best represent the area those who elected them.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The Electoral College is done wrong in most states. A Winner-take-All system for the College is not representative of the constituents of a state. Rather, the votes should be divided among congressional districts.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The First Past The Post (FPTP) system has failed us at the Popular Vote side on numerous occasions. Ranked Voting is preferred and is being tested in Maine.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A vote for a third party is not a wasted vote in any system. If anything, it&amp;rsquo;s a vote against the duopoly.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The debates aren&amp;rsquo;t serving their actual purpose. If anything, it&amp;rsquo;s an ad for both the Democratic National Party and the Republican National Party. The Commission on Presidential Debates, the people who run the debates, is a &lt;a href=&#34;https://www.nytimes.com/1987/02/19/us/democrats-and-republicans-form-panel-to-hold-presidential-debates.html?pagewanted=1&#34;&gt;bipartisan organization&lt;/a&gt; designed to gatekeep the debates (&lt;em&gt;Overruling Democracy: The Supreme Court vs The American People&lt;/em&gt; by Raskin, Page 126).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
+The United States is designed as a Federal Republic - we elect people who represent us. This includes the Presidential Election - the Electoral College is designed so that we vote for the electors who best represent the area those who elected them.</description>
     </item>
     
     <item>
@@ -269,51 +173,7 @@ I&amp;rsquo;m trying to not pull from conspiracy theory. Sources are linked or c
       
       <guid>https://jdcain.me/posts/2020-09-28-vim-config-fun/</guid>
       <description>Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.
-&amp;quot; Extra Pluginscall plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)Plug &#39;junegunn/goyo.vim&#39;Plug &#39;junegunn/limelight.vim&#39;Plug &#39;vim-airline/vim-airline&#39;Plug &#39;vim-airline/vim-airline-themes&#39;Plug &#39;ctrlpvim/ctrlp.vim&#39;Plug &#39;vimwiki/vimwiki&#39;Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }Plug &#39;vim-scripts/AutoComplPop&#39;Plug &#39;junegunn/fzf&#39;call plug#end()&amp;quot; Aestheticscolorscheme draculalet g:airline#extensions#tabline#enabled = 1let g:airline_theme = &#39;zenburn&#39;let g:airline_powerline_fonts = 1let maplocalleader=&amp;quot;;&amp;quot;let g:limelight_conceal_ctermfg = 240set noshowmodeset nocompatibleset number&amp;quot; echom &amp;quot;YAMETE KUDASTOP!</description>
-      <content>&lt;p&gt;Recently, I&amp;rsquo;ve been writing a configuration file for nvim that I believe would be fun. I do use plugins and as I stream every so often, I do have a snippet that I can run a simple command to get, as seen below.&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;quot; Extra Plugins
-call plug#begin(&#39;C:\Users\snicf\AppData\Local\nvim\plugs&#39;)
-Plug &#39;junegunn/goyo.vim&#39;
-Plug &#39;junegunn/limelight.vim&#39;
-Plug &#39;vim-airline/vim-airline&#39;
-Plug &#39;vim-airline/vim-airline-themes&#39;
-Plug &#39;ctrlpvim/ctrlp.vim&#39;
-Plug &#39;vimwiki/vimwiki&#39;
-Plug &#39;dracula/vim&#39;, { &#39;as&#39;: &#39;dracula&#39; }
-Plug &#39;vim-scripts/AutoComplPop&#39;
-Plug &#39;junegunn/fzf&#39;
-call plug#end()
-
-&amp;quot; Aesthetics
-colorscheme dracula
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme = &#39;zenburn&#39;
-let g:airline_powerline_fonts = 1
-let maplocalleader=&amp;quot;;&amp;quot;
-let g:limelight_conceal_ctermfg = 240
-set noshowmode
-set nocompatible
-set number
-&amp;quot; echom &amp;quot;YAMETE KUDASTOP!&amp;quot;
-
-&amp;quot; Elite Spelling
-set spelllang=en
-set spellfile=$HOME/.spell.en.utf-8.add
-set spell
-
-
-&amp;quot; Power Keymappings
-nnoremap &amp;lt;Leader&amp;gt;h &amp;lt;C-w&amp;gt;h
-nnoremap &amp;lt;Leader&amp;gt;j &amp;lt;C-w&amp;gt;j
-nnoremap &amp;lt;Leader&amp;gt;k &amp;lt;C-w&amp;gt;k
-nnoremap &amp;lt;Leader&amp;gt;l &amp;lt;C-w&amp;gt;l
-nnoremap ,twitch :-1read ~\src\twitch.html&amp;lt;CR&amp;gt;6j11l
-
-au BufNewFile,BufRead /*.rasi setf css
-filetype plugin on
-syntax on
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This isn&amp;rsquo;t in my dotfiles yet, as I&amp;rsquo;ve only been hacking on it on Windows, but soon it shall be. I&amp;rsquo;ll have to pull it down to my Arch laptop. I had to switch from FreeBSD and OpenBSD as the driver support is limited. Also, I&amp;rsquo;ve been trying to contribute more to the community. I may not be a hacker, but I am a reader. As such, I&amp;rsquo;ve been contributing my books to BookBrainz.&lt;/p&gt;
-</content>
+&amp;#34; Extra Pluginscall plug#begin(&amp;#39;C:\Users\snicf\AppData\Local\nvim\plugs&amp;#39;)Plug &amp;#39;junegunn/goyo.vim&amp;#39;Plug &amp;#39;junegunn/limelight.vim&amp;#39;Plug &amp;#39;vim-airline/vim-airline&amp;#39;Plug &amp;#39;vim-airline/vim-airline-themes&amp;#39;Plug &amp;#39;ctrlpvim/ctrlp.vim&amp;#39;Plug &amp;#39;vimwiki/vimwiki&amp;#39;Plug &amp;#39;dracula/vim&amp;#39;, { &amp;#39;as&amp;#39;: &amp;#39;dracula&amp;#39; }Plug &amp;#39;vim-scripts/AutoComplPop&amp;#39;Plug &amp;#39;junegunn/fzf&amp;#39;call plug#end()&amp;#34; Aestheticscolorscheme draculalet g:airline#extensions#tabline#enabled = 1let g:airline_theme = &amp;#39;zenburn&amp;#39;let g:airline_powerline_fonts = 1let maplocalleader=&amp;#34;;&amp;#34;let g:limelight_conceal_ctermfg = 240set noshowmodeset nocompatibleset number&amp;#34; echom &amp;#34;YAMETE KUDASTOP!</description>
     </item>
     
     <item>
@@ -328,22 +188,6 @@ The items you need:
 - Syncthing
 Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.
 Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.</description>
-      <content>&lt;p&gt;So, I&amp;rsquo;ve decided to set up my own note taking solution using Syncthing and Joplin. It was simple to get going, albeit a bit complicated.&lt;/p&gt;
-&lt;p&gt;The items you need:&lt;br&gt;
-- &lt;a href=&#34;https://joplinapp.org/&#34;&gt;Joplin&lt;/a&gt;&lt;br&gt;
-- &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Step 1: Create a folder in your filesystem for your notes. In my main system, it&amp;rsquo;s on D:\notes.&lt;/p&gt;
-&lt;p&gt;Step 2: Start Joplin. Under Options &amp;gt; Synchronization, set the Synchronization target to &amp;ldquo;Filesystem&amp;rdquo;. The path should be pointed to your notes folder.
-&lt;img src=&#34;https://jdcain.me/assets/joplin.png&#34; alt=&#34;Joplin&#34;&gt;
-Step 3: Start Syncthing and create a shared folder:&lt;br&gt;
-- Name: Whatever you want.&lt;br&gt;
-- Path: Your Notes Folder.&lt;br&gt;
-- Folder ID: Choose something unique.&lt;br&gt;
-&lt;img src=&#34;https://jdcain.me/assets/folder.png&#34; alt=&#34;Folder&#34;&gt;
-Step 4: Set up a device in Syncthing. Share the notes folder under Sharing.
-&lt;img src=&#34;https://jdcain.me/assets/devices.png&#34; alt=&#34;Devices&#34;&gt;
-Step 5: Accept both connect request and share request on the other device.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -353,10 +197,6 @@ Step 5: Accept both connect request and share request on the other device.&lt;/p
       
       <guid>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</guid>
       <description>I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in &lt;a href=&#34;https://man.openbsd.org/httpd.8&#34;&gt;httpd(8)&lt;/a&gt; ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - &lt;a href=&#34;https://man.openbsd.org/acme-client.1&#34;&gt;acme-client(1)&lt;/a&gt;. The configuration for this is also super simple. Just configure your ACME server, then your domain, the ASNs, the paths for your certificates, and then which server to sign. It follows the same config as &lt;a href=&#34;https://man.openbsd.org/httpd.conf&#34;&gt;httpd.conf(5)&lt;/a&gt;, which is mentioned above.&lt;/p&gt;
-&lt;p&gt;This whole blend works nicely with this site, which is written with Jekyll, a static site generator developed in Ruby.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t understand why, but simple sometimes is better.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -367,18 +207,10 @@ Step 5: Accept both connect request and share request on the other device.&lt;/p
       <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
       <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
 After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
- [Theme]
+[Theme]
 Current=sddm-freebsd-black-theme
- (Sidenote: This theme is also available in pkg)</description>
-      <content>&lt;p&gt;So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include &lt;code&gt;sddm_enable=&amp;quot;YES&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;After this was set, I went into /usr/local/etc/sddm.conf and set the theme:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;[Theme]&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;Current=sddm-freebsd-black-theme&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;(Sidenote: This theme is also available in pkg)&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console. Though, the console is always sexy.&lt;/p&gt;
-</content>
+(Sidenote: This theme is also available in pkg)
+I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console.</description>
     </item>
     
     <item>
@@ -388,9 +220,6 @@ Current=sddm-freebsd-black-theme
       
       <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
       <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
-      <content>&lt;p&gt;I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process. I just need to get my init.vim from my Manjaro box to my desktop. I&amp;rsquo;ll just use Firefox Send. It&amp;rsquo;d make it easy.&lt;/p&gt;
-&lt;p&gt;I should read up on system hardening and see just how much more secure I can make this system. OpenBSD prides itself on being a pretty super secure system out of the default install. Also, if anyone knows how any application like ncpamixer for mixerctl, please let me know. I&amp;rsquo;m hanging out on matrix at @t3hyoshi:matrix.agopherhole.tk.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -401,11 +230,6 @@ Current=sddm-freebsd-black-theme
       <guid>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</guid>
       <description>Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.
 The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead.</description>
-      <content>&lt;p&gt;Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.&lt;/p&gt;
-&lt;p&gt;The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead. This was an interesting setup - exactly what the doctor ordered.&lt;/p&gt;
-&lt;p&gt;I set everything up with Spectrwm, borrowing a bit of distrotube&amp;rsquo;s own config. There&amp;rsquo;s still much more to get working, such as baractions.sh, but so far, things are looking pretty nice.&lt;/p&gt;
-&lt;p&gt;You can see a screenshot of my config &lt;a href=&#34;https://np.reddit.com/r/unixporn/comments/gd0ww7/spectrwm_natures_calling_and_dracula_mix/&#34;&gt;here&lt;/a&gt; (NP link to help follow rules)&lt;/p&gt;
-</content>
     </item>
     
   </channel>

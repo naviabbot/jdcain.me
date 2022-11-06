@@ -40,20 +40,6 @@ paginate = 5
 	name = "Posts"
 	url = "/posts"
       
-      [[languages.en.menu.main]]
-        identifier = "games"
-	name = "Games Blog"
-	url = "https://games.jdcain.me"
-
-      [[languages.en.menu.main]]
-        identifier = "stream"
-	name = "Streams"
-	url = "https://kmartk.art"
-
-      [[languages.en.menu.main]]
-	identifier = "gemini"
-	name = "Gemini Version"
-	url = "/gemini"
 
 [markup.goldmark.renderer]
   unsafe = true

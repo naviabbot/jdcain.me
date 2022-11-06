@@ -15,9 +15,6 @@
       <guid>https://jdcain.me/posts/2021-01-27-openbsd-upgrade/</guid>
       <description>A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.
 Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.</description>
-      <content>&lt;p&gt;A little bit late, but we&amp;rsquo;re up to date. Luckily, this goes for all sites, as there&amp;rsquo;s no real CMS to break into. The upgrade was pretty easy - one simple command - sysupgrade. It downloaded all the filesets and the new kernel before unpacking and rebooting.&lt;/p&gt;
-&lt;p&gt;Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. The recommendation was to move to doas and I couldn&amp;rsquo;t agree much more. The config is stupidly simple - just look up &amp;ldquo;man 5 doas.conf&amp;rdquo;. It&amp;rsquo;s not as heady as a sudoers file at all. It&amp;rsquo;s simple, to the point, and is constantly updated by the OpenBSD team the moment there is a security vulnerability. You can get it on almost any Linux or BSD. The Linux folk can use duncaen/OpenDoas from Github or off of the Arch AUR or repos.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -27,10 +24,6 @@ Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. Th
       
       <guid>https://jdcain.me/posts/2020-05-09-openbsd-hosting-day1/</guid>
       <description>I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in httpd(8) ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - acme-client(1). The configuration for this is also super simple.</description>
-      <content>&lt;p&gt;I&amp;rsquo;ve recently moved my host from my employer&amp;rsquo;s shared hosting platform to a self-hosted OpenBSD server on my preferred cloud host. I&amp;rsquo;ve been wanting to play with the built-in &lt;a href=&#34;https://man.openbsd.org/httpd.8&#34;&gt;httpd(8)&lt;/a&gt; ever since I saw that it existed. The configuration itself is super simple, almost like my experience with Ruby&amp;rsquo;s Sinatra framework. Apparently, in addition to LibreSSL, OpenBSD has it&amp;rsquo;s own built-in Let&amp;rsquo;s Encrypt client - &lt;a href=&#34;https://man.openbsd.org/acme-client.1&#34;&gt;acme-client(1)&lt;/a&gt;. The configuration for this is also super simple. Just configure your ACME server, then your domain, the ASNs, the paths for your certificates, and then which server to sign. It follows the same config as &lt;a href=&#34;https://man.openbsd.org/httpd.conf&#34;&gt;httpd.conf(5)&lt;/a&gt;, which is mentioned above.&lt;/p&gt;
-&lt;p&gt;This whole blend works nicely with this site, which is written with Jekyll, a static site generator developed in Ruby.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t understand why, but simple sometimes is better.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -41,18 +34,10 @@ Also, there&amp;rsquo;s a recent video about the recent sudo vulnerabilities. Th
       <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
       <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
 After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
- [Theme]
+[Theme]
 Current=sddm-freebsd-black-theme
- (Sidenote: This theme is also available in pkg)</description>
-      <content>&lt;p&gt;So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include &lt;code&gt;sddm_enable=&amp;quot;YES&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;After this was set, I went into /usr/local/etc/sddm.conf and set the theme:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;[Theme]&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;Current=sddm-freebsd-black-theme&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;(Sidenote: This theme is also available in pkg)&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console. Though, the console is always sexy.&lt;/p&gt;
-</content>
+(Sidenote: This theme is also available in pkg)
+I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console.</description>
     </item>
     
     <item>
@@ -62,9 +47,6 @@ Current=sddm-freebsd-black-theme
       
       <guid>https://jdcain.me/posts/2020-05-05-openbsd-easy/</guid>
       <description>I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process.</description>
-      <content>&lt;p&gt;I should stop distro hopping. FreeBSD became OpenBSD. Another quick setup and it comes with X already installed, through Xenocera. Not a bad take. However, not every application is available. I just wanted a simple terminal with some easy configuration to do&amp;hellip; well, a binary st exists, but sakura comes with it&amp;rsquo;s colorschemes baked in. No dracula. You know what. I&amp;rsquo;m going to keep it here at OpenBSD. I want to experience the upgrade process. I just need to get my init.vim from my Manjaro box to my desktop. I&amp;rsquo;ll just use Firefox Send. It&amp;rsquo;d make it easy.&lt;/p&gt;
-&lt;p&gt;I should read up on system hardening and see just how much more secure I can make this system. OpenBSD prides itself on being a pretty super secure system out of the default install. Also, if anyone knows how any application like ncpamixer for mixerctl, please let me know. I&amp;rsquo;m hanging out on matrix at @t3hyoshi:matrix.agopherhole.tk.&lt;/p&gt;
-</content>
     </item>
     
     <item>
@@ -75,11 +57,6 @@ Current=sddm-freebsd-black-theme
       <guid>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</guid>
       <description>Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.
 The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead.</description>
-      <content>&lt;p&gt;Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.&lt;/p&gt;
-&lt;p&gt;The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead. This was an interesting setup - exactly what the doctor ordered.&lt;/p&gt;
-&lt;p&gt;I set everything up with Spectrwm, borrowing a bit of distrotube&amp;rsquo;s own config. There&amp;rsquo;s still much more to get working, such as baractions.sh, but so far, things are looking pretty nice.&lt;/p&gt;
-&lt;p&gt;You can see a screenshot of my config &lt;a href=&#34;https://np.reddit.com/r/unixporn/comments/gd0ww7/spectrwm_natures_calling_and_dracula_mix/&#34;&gt;here&lt;/a&gt; (NP link to help follow rules)&lt;/p&gt;
-</content>
     </item>
     
   </channel>

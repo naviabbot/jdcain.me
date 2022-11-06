@@ -14,28 +14,8 @@
       
       <guid>https://jdcain.me/posts/2021-02-03-howto-set-up-agate-on-freebsd/</guid>
       <description>It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.
- Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot)  Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace  with your full domain name.
- cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.</description>
-      <content>&lt;p&gt;It&amp;rsquo;s sort of simple. You&amp;rsquo;ll need a few things, really.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rust (Can be installed via rustup.rs)&lt;/li&gt;
-&lt;li&gt;Certbot (&lt;code&gt;pkg install py37-certbot&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-&lt;p&gt;The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace &lt;domainname&gt; with your full domain name.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;cargo install agate&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;certbot certonly --standalone -d &amp;lt;domainname&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.0.0.0:1965 --hostname &amp;lt;domainname&amp;gt; --lang en-US&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Add a .gmi file to the content directory.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;A .gmi file is based off of Markdown with it&amp;rsquo;s headers, bullets, and ordered lists. Links, however, are not inline. Rather, they are denoted by an &lt;code&gt;=&amp;gt;&lt;/code&gt;. Links are easier than Gopher though. Take this example to the home page:&lt;/p&gt;
-&lt;p&gt;Gemini Link
-&lt;code&gt;=&amp;gt; https://jdcain.me A blog&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Gopher Link
-&lt;code&gt;hA blog&amp;lt;tab&amp;gt;URL:https://jdcain.me&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;A bit clunky, I can assure you. The &amp;lsquo;text/gemini&amp;rsquo; markup is simple and modern.&lt;/p&gt;
-</content>
+Rust (Can be installed via rustup.rs) Certbot (pkg install py37-certbot) Setup The first thing you are going to want to do is to install Rust and Certbot. Once those are installed, follow the instructions below. Replace with your full domain name.
+cargo install agate certbot certonly --standalone -d &amp;lt;domainname&amp;gt; agate --content path/to/content/ --key /usr/local/etc/letsencrypt/live/domainname/privkey.pem --cert /usr/local/etc/letsencrypt/live/domainname/cert.pem --addr 0.0.0.0:1965 --hostname &amp;lt;domainname&amp;gt; --lang en-US Add a .</description>
     </item>
     
     <item>
@@ -46,18 +26,10 @@
       <guid>https://jdcain.me/posts/2020-05-07-sddm-on-freebsd/</guid>
       <description>So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include sddm_enable=&amp;quot;YES&amp;quot;.
 After this was set, I went into /usr/local/etc/sddm.conf and set the theme:
- [Theme]
+[Theme]
 Current=sddm-freebsd-black-theme
- (Sidenote: This theme is also available in pkg)</description>
-      <content>&lt;p&gt;So, I lied. I&amp;rsquo;m back on FreeBSD. Mainly because I couldn&amp;rsquo;t live without my Spotifyd and spotify-tui. This time around, I put sddm as part of the startup process. It was simple. Just had to install from pkg. Once installed, I edited my /etc/rc.conf to include &lt;code&gt;sddm_enable=&amp;quot;YES&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;After this was set, I went into /usr/local/etc/sddm.conf and set the theme:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code&gt;[Theme]&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;Current=sddm-freebsd-black-theme&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;(Sidenote: This theme is also available in pkg)&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console. Though, the console is always sexy.&lt;/p&gt;
-</content>
+(Sidenote: This theme is also available in pkg)
+I&amp;rsquo;ve got a nice welcome screen greeting me instead of the console.</description>
     </item>
     
     <item>
@@ -68,11 +40,6 @@ Current=sddm-freebsd-black-theme
       <guid>https://jdcain.me/posts/2020-05-04-the-strange-joys-of-freebsd/</guid>
       <description>Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.
 The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead.</description>
-      <content>&lt;p&gt;Recently, I decided to dip my toes into FreeBSD. Made the mistake of trying to install from ports, but that was easily fixed by installing packages only. May be stuck on the release cycle of FreeBSD, but so far, the experience was not bad.&lt;/p&gt;
-&lt;p&gt;The install and X setup took about 4 hours. Everything else was a breeze. I was originally hoping to get Mopidy installed so I can access Spotify in an mpc like setting, but I found Spotifyd instead. This was an interesting setup - exactly what the doctor ordered.&lt;/p&gt;
-&lt;p&gt;I set everything up with Spectrwm, borrowing a bit of distrotube&amp;rsquo;s own config. There&amp;rsquo;s still much more to get working, such as baractions.sh, but so far, things are looking pretty nice.&lt;/p&gt;
-&lt;p&gt;You can see a screenshot of my config &lt;a href=&#34;https://np.reddit.com/r/unixporn/comments/gd0ww7/spectrwm_natures_calling_and_dracula_mix/&#34;&gt;here&lt;/a&gt; (NP link to help follow rules)&lt;/p&gt;
-</content>
     </item>
     
   </channel>
